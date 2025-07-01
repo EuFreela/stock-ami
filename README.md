@@ -5,7 +5,7 @@ I'm part of the Software Engineering group at Omni Eletronica <https://www.omni-
 This project has private source code with rights reserved to Omni Eletronica.
 <hr>
 
-Stock-Ami is an application that started under the name Amihub.
+AMIStock is an application that started under the name Amihub.
 AmI is the scientific acronym for Ambient Intelligence and served as inspiration for this sBuilding Operating System (BOS) that optimizes Facility Management operations.
 ​AMI-Hub is a platform that allows not only centralized monitoring of buildings, but also interaction between occupants, Facility Managers, service providers and owners. The use of Artificial Intelligence enables communication between spaces and their occupants. We digitize the experience of being in buildings through a digital representation (Digital Twin) of it.
 
