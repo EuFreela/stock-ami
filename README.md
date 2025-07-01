@@ -11,6 +11,8 @@ AMI-Stock is an application that started under the name Amihub.
 AmI is the scientific acronym for Ambient Intelligence and served as inspiration for this sBuilding Operating System (BOS) that optimizes Facility Management operations.
 ​AMI-Hub is a platform that allows not only centralized monitoring of buildings, but also interaction between occupants, Facility Managers, service providers and owners. The use of Artificial Intelligence enables communication between spaces and their occupants. We digitize the experience of being in buildings through a digital representation (Digital Twin) of it.
 
+General tecnologies: Laravel, ReactJS, FastAPI, RabbitMQ
+
 About: https://www.omni-electronica.com.br/ami-hub
 
 Tecnologies AMI-Hub: php, laravel
