@@ -1,4 +1,4 @@
-# Stock-AMI
+# AMIStock
 
 **initial year of the project: 2019**<br>
 I'm part of the Software Engineering group at Omni Eletronica <https://www.omni-electronica.com/>. Together we developed new technologies for managing IoT applications making smart environments.
